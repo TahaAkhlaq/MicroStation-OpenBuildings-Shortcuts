@@ -8,7 +8,7 @@ See [`MicroStation-OpenBuildings-Shortcuts.pdf`](MicroStation-OpenBuildings-Shor
 
 ## Copyright & Licensing
 
-Copyright (C) 2025 **Taha Akhlaq** <takhlaq04@gmail.com>
+Copyright (C) 2026 **Taha Akhlaq** <takhlaq04@gmail.com>
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
