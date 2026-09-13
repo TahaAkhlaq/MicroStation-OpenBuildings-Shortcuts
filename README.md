@@ -1,5 +1,8 @@
 # MicroStation/OpenBuildings Shortcuts
-Reference Sheet for MicroStation and OpenBuildings Keyboard Shortcuts
+
+A quick-reference sheet for commonly used MicroStation and OpenBuildings keyboard shortcuts, tools, navigation controls, snaps, and AccuDraw commands.
+
+See [`MicroStation-OpenBuildings-Shortcuts.pdf`](MicroStation-OpenBuildings-Shortcuts.pdf) for the full reference sheet.
 
 ---
 
